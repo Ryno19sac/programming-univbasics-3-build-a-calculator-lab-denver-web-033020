@@ -30,7 +30,7 @@ modulo
 end
 
 def square_root(num)
-square_root=num**
+square_root=Math.sqrt(num)
 puts square_root
 square_root
 end
