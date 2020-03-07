@@ -29,3 +29,8 @@ puts modulo
 modulo
 end
 
+def square_root(num)
+square_root=num**
+puts square_root
+square_root
+end
